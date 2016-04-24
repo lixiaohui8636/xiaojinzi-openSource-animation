@@ -2,7 +2,8 @@ package xiaojinzi.animation;
 
 import android.view.View;
 import android.view.animation.RotateAnimation;
-import xiaojinzi.android.animation.baseAnimation.BaseAnimationUtil;
+
+import xiaojinzi.animation.baseAnimation.BaseAnimationUtil;
 
 /**
  * 旋转动画的工具类

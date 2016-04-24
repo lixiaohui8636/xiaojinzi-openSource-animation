@@ -2,7 +2,9 @@ package xiaojinzi.animation;
 
 import android.view.View;
 import android.view.animation.AlphaAnimation;
-import xiaojinzi.android.animation.baseAnimation.BaseAnimationUtil;
+
+import xiaojinzi.animation.baseAnimation.BaseAnimationUtil;
+
 
 /**
  * 透明度动画的工具类

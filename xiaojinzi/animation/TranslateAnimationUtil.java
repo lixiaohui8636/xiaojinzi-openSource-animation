@@ -2,7 +2,7 @@ package xiaojinzi.animation;
 
 import android.view.View;
 import android.view.animation.TranslateAnimation;
-import xiaojinzi.android.animation.baseAnimation.BaseAnimationUtil;
+import xiaojinzi.animation.baseAnimation.BaseAnimationUtil;
 
 /**
  * 平移动画的工具类

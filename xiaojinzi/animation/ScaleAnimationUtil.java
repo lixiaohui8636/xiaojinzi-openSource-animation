@@ -3,7 +3,7 @@ package xiaojinzi.animation;
 import android.view.View;
 import android.view.animation.Animation;
 import android.view.animation.ScaleAnimation;
-import xiaojinzi.android.animation.baseAnimation.BaseAnimationUtil;
+import xiaojinzi.animation.baseAnimation.BaseAnimationUtil;
 
 /**
  * 缩放的动画的工具类
